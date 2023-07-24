@@ -1,6 +1,6 @@
 # Sophia: Explanation and Experiments
 
-we will provide an explanation of the Sophia-G optimizer and present our experiments with GPT-2 training using Sophia and Adam optimizers on Google Colab. 
+We will provide an explanation of the Sophia-G optimizer and present our experiments with GPT-2 training using Sophia and Adam optimizers on Google Colab. 
 
 We would like to express our sincere appreciation to Liu Hong, Li Zhiyuan, Hall David, Liang Percy, and Ma Tengyu for their valuable contributions to this project. 👏
 
@@ -43,5 +43,12 @@ The training setup involved using a single A6000 GPU with 48GB memory, 32GB RAM,
   - LinkedIn: [Trần Đức Anh](https://www.linkedin.com/in/anhtrancntt/)
   - GitHub: [tranducanh-github](https://github.com/Helianthusss)
 
+# Advisors:
+
+Nguyen Ba Ngoc
+
+Github: https://github.com/bangoc123
+Linkedin: https://www.linkedin.com/in/nbangoc
+Email: protonxai@gmail.com
 
 
