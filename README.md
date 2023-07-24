@@ -43,7 +43,7 @@ The training setup involved using a single A6000 GPU with 48GB memory, 32GB RAM,
   - LinkedIn: [Trần Đức Anh](https://www.linkedin.com/in/anhtrancntt/)
   - GitHub: [tranducanh-github](https://github.com/Helianthusss)
 
-# Advisors:
+# Advisors
 
 Nguyen Ba Ngoc
 
