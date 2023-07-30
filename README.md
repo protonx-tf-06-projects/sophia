@@ -47,8 +47,8 @@ The training setup involved using a single A6000 GPU with 48GB memory, 32GB RAM,
 
 Nguyen Ba Ngoc
 
-Github: https://github.com/bangoc123
-Linkedin: https://www.linkedin.com/in/nbangoc
-Email: protonxai@gmail.com
+- Github: https://github.com/bangoc123
+- Linkedin: https://www.linkedin.com/in/nbangoc
+- Email: protonxai@gmail.com
 
 
